@@ -1,0 +1,7 @@
+mods/data/encounter/encounter-easy.json
+mods/data/encounter/encounter-hard.json
+mods/data/encounter/encounter.json
+mods/songs/encounter/Voices.ogg
+mods/songs/encounter/Inst.ogg
+mods/songs/encounter/voices.ogg
+mods/songs/encounter/inst.ogg
